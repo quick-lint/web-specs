@@ -1,0 +1,312 @@
+[submodule "DOM-Parsing"]
+	path = DOM-Parsing
+	url = https://github.com/w3c/DOM-Parsing
+[submodule "FileAPI"]
+	path = FileAPI
+	url = https://github.com/w3c/FileAPI
+[submodule "IndexedDB"]
+	path = IndexedDB
+	url = https://github.com/w3c/IndexedDB
+[submodule "IntersectionObserver"]
+	path = IntersectionObserver
+	url = https://github.com/W3C/IntersectionObserver
+[submodule "ServiceWorker"]
+	path = ServiceWorker
+	url = https://github.com/w3c/ServiceWorker
+[submodule "WebAssembly-spec"]
+	path = WebAssembly-spec
+	url = https://github.com/WebAssembly/spec
+[submodule "accelerometer"]
+	path = accelerometer
+	url = https://github.com/w3c/accelerometer
+[submodule "anchors"]
+	path = anchors
+	url = https://github.com/immersive-web/anchors
+[submodule "background-fetch"]
+	path = background-fetch
+	url = https://github.com/WICG/background-fetch
+[submodule "background-sync"]
+	path = background-sync
+	url = https://github.com/WICG/background-sync
+[submodule "battery"]
+	path = battery
+	url = https://github.com/w3c/battery
+[submodule "clipboard-apis"]
+	path = clipboard-apis
+	url = https://github.com/w3c/clipboard-apis
+[submodule "compression"]
+	path = compression
+	url = https://github.com/wicg/compression
+[submodule "console"]
+	path = console
+	url = https://github.com/whatwg/console
+[submodule "cookie-store"]
+	path = cookie-store
+	url = https://github.com/WICG/cookie-store
+[submodule "css-houdini-drafts"]
+	path = css-houdini-drafts
+	url = https://github.com/w3c/css-houdini-drafts
+[submodule "csswg-drafts"]
+	path = csswg-drafts
+	url = https://github.com/w3c/csswg-drafts
+[submodule "depth-sensing"]
+	path = depth-sensing
+	url = https://github.com/immersive-web/depth-sensing
+[submodule "deviceorientation"]
+	path = deviceorientation
+	url = https://github.com/w3c/deviceorientation
+[submodule "dom"]
+	path = dom
+	url = https://github.com/whatwg/dom
+[submodule "dom-overlays"]
+	path = dom-overlays
+	url = https://github.com/immersive-web/dom-overlays
+[submodule "element-timing"]
+	path = element-timing
+	url = https://github.com/WICG/element-timing
+[submodule "encoding"]
+	path = encoding
+	url = https://github.com/whatwg/encoding
+[submodule "encrypted-media"]
+	path = encrypted-media
+	url = https://github.com/w3c/encrypted-media
+[submodule "entries-api"]
+	path = entries-api
+	url = https://github.com/WICG/entries-api
+[submodule "event-timing"]
+	path = event-timing
+	url = https://github.com/WICG/event-timing
+[submodule "fetch"]
+	path = fetch
+	url = https://github.com/whatwg/fetch
+[submodule "file-system-access"]
+	path = file-system-access
+	url = https://github.com/wicg/file-system-access
+[submodule "fxtf-drafts"]
+	path = fxtf-drafts
+	url = https://github.com/w3c/fxtf-drafts
+[submodule "gamepad"]
+	path = gamepad
+	url = https://github.com/w3c/gamepad
+[submodule "geolocation-api"]
+	path = geolocation-api
+	url = https://github.com/w3c/geolocation-api
+[submodule "gyroscope"]
+	path = gyroscope
+	url = https://github.com/w3c/gyroscope
+[submodule "hit-test"]
+	path = hit-test
+	url = https://github.com/immersive-web/hit-test
+[submodule "hr-time"]
+	path = hr-time
+	url = https://github.com/w3c/hr-time
+[submodule "html"]
+	path = html
+	url = https://github.com/whatwg/html
+[submodule "input-device-capabilities"]
+	path = input-device-capabilities
+	url = https://github.com/WICG/input-device-capabilities
+[submodule "keyboard-lock"]
+	path = keyboard-lock
+	url = https://github.com/wicg/keyboard-lock
+[submodule "keyboard-map"]
+	path = keyboard-map
+	url = https://github.com/wicg/keyboard-map
+[submodule "largest-contentful-paint"]
+	path = largest-contentful-paint
+	url = https://github.com/WICG/largest-contentful-paint
+[submodule "layers"]
+	path = layers
+	url = https://github.com/immersive-web/layers
+[submodule "layout-instability"]
+	path = layout-instability
+	url = https://github.com/WICG/layout-instability
+[submodule "lighting-estimation"]
+	path = lighting-estimation
+	url = https://github.com/immersive-web/lighting-estimation
+[submodule "longtasks"]
+	path = longtasks
+	url = https://github.com/w3c/longtasks
+[submodule "mathml-core"]
+	path = mathml-core
+	url = https://github.com/w3c/mathml-core
+[submodule "media-capabilities"]
+	path = media-capabilities
+	url = https://github.com/w3c/media-capabilities
+[submodule "media-playback-quality"]
+	path = media-playback-quality
+	url = https://github.com/w3c/media-playback-quality
+[submodule "media-source"]
+	path = media-source
+	url = https://github.com/w3c/media-source
+[submodule "mediacapture-fromelement"]
+	path = mediacapture-fromelement
+	url = https://github.com/w3c/mediacapture-fromelement
+[submodule "mediacapture-image"]
+	path = mediacapture-image
+	url = https://github.com/w3c/mediacapture-image
+[submodule "mediacapture-main"]
+	path = mediacapture-main
+	url = https://github.com/w3c/mediacapture-main
+[submodule "mediacapture-record"]
+	path = mediacapture-record
+	url = https://github.com/w3c/mediacapture-record
+[submodule "mediasession"]
+	path = mediasession
+	url = https://github.com/w3c/mediasession
+[submodule "navigation-timing"]
+	path = navigation-timing
+	url = https://github.com/w3c/navigation-timing
+[submodule "netinfo"]
+	path = netinfo
+	url = https://github.com/WICG/netinfo
+[submodule "notifications"]
+	path = notifications
+	url = https://github.com/whatwg/notifications
+[submodule "orientation-sensor"]
+	path = orientation-sensor
+	url = https://github.com/w3c/orientation-sensor
+[submodule "paint-timing"]
+	path = paint-timing
+	url = https://github.com/w3c/paint-timing
+[submodule "payment-request"]
+	path = payment-request
+	url = https://github.com/w3c/payment-request
+[submodule "performance-timeline"]
+	path = performance-timeline
+	url = https://github.com/w3c/performance-timeline
+[submodule "periodic-background-sync"]
+	path = periodic-background-sync
+	url = https://github.com/WICG/periodic-background-sync
+[submodule "permissions"]
+	path = permissions
+	url = https://github.com/w3c/permissions
+[submodule "picture-in-picture"]
+	path = picture-in-picture
+	url = https://github.com/w3c/picture-in-picture
+[submodule "pointerevents"]
+	path = pointerevents
+	url = https://github.com/w3c/pointerevents
+[submodule "presentation-api"]
+	path = presentation-api
+	url = https://github.com/w3c/presentation-api
+[submodule "push-api"]
+	path = push-api
+	url = https://github.com/w3c/push-api
+[submodule "remote-playback"]
+	path = remote-playback
+	url = https://github.com/w3c/remote-playback
+[submodule "reporting"]
+	path = reporting
+	url = https://github.com/w3c/reporting
+[submodule "requestidlecallback"]
+	path = requestidlecallback
+	url = https://github.com/w3c/requestidlecallback
+[submodule "resource-timing"]
+	path = resource-timing
+	url = https://github.com/w3c/resource-timing
+[submodule "screen-orientation"]
+	path = screen-orientation
+	url = https://github.com/w3c/screen-orientation
+[submodule "screen-wake-lock"]
+	path = screen-wake-lock
+	url = https://github.com/w3c/screen-wake-lock
+[submodule "scroll-to-text-fragment"]
+	path = scroll-to-text-fragment
+	url = https://github.com/wicg/scroll-to-text-fragment
+[submodule "selection-api"]
+	path = selection-api
+	url = https://github.com/w3c/selection-api
+[submodule "sensors"]
+	path = sensors
+	url = https://github.com/w3c/sensors
+[submodule "serial"]
+	path = serial
+	url = https://github.com/wicg/serial
+[submodule "server-timing"]
+	path = server-timing
+	url = https://github.com/w3c/server-timing
+[submodule "speech-api"]
+	path = speech-api
+	url = https://github.com/WICG/speech-api
+[submodule "storage"]
+	path = storage
+	url = https://github.com/whatwg/storage
+[submodule "streams"]
+	path = streams
+	url = https://github.com/whatwg/streams
+[submodule "svgwg"]
+	path = svgwg
+	url = https://github.com/w3c/svgwg
+[submodule "touch-events"]
+	path = touch-events
+	url = https://github.com/w3c/touch-events
+[submodule "ua-client-hints"]
+	path = ua-client-hints
+	url = https://github.com/WICG/ua-client-hints
+[submodule "uievents"]
+	path = uievents
+	url = https://github.com/w3c/uievents
+[submodule "url"]
+	path = url
+	url = https://github.com/whatwg/url
+[submodule "user-timing"]
+	path = user-timing
+	url = https://github.com/w3c/user-timing
+[submodule "visual-viewport"]
+	path = visual-viewport
+	url = https://github.com/WICG/visual-viewport
+[submodule "web-audio-api"]
+	path = web-audio-api
+	url = https://github.com/WebAudio/web-audio-api
+[submodule "web-locks"]
+	path = web-locks
+	url = https://github.com/WICG/web-locks
+[submodule "web-midi-api"]
+	path = web-midi-api
+	url = https://github.com/WebAudio/web-midi-api
+[submodule "webappsec-credential-management"]
+	path = webappsec-credential-management
+	url = https://github.com/w3c/webappsec-credential-management
+[submodule "webappsec-csp"]
+	path = webappsec-csp
+	url = https://github.com/w3c/webappsec-csp
+[submodule "webappsec-permissions-policy"]
+	path = webappsec-permissions-policy
+	url = https://github.com/w3c/webappsec-permissions-policy
+[submodule "webappsec-trusted-types"]
+	path = webappsec-trusted-types
+	url = https://github.com/w3c/webappsec-trusted-types
+[submodule "webauthn"]
+	path = webauthn
+	url = https://github.com/w3c/webauthn
+[submodule "webcrypto"]
+	path = webcrypto
+	url = https://github.com/w3c/webcrypto
+[submodule "webhid"]
+	path = webhid
+	url = https://github.com/WICG/webhid
+[submodule "webidl"]
+	path = webidl
+	url = https://github.com/heycam/webidl
+[submodule "webrtc-encoded-transform"]
+	path = webrtc-encoded-transform
+	url = https://github.com/w3c/webrtc-encoded-transform
+[submodule "webrtc-pc"]
+	path = webrtc-pc
+	url = https://github.com/w3c/webrtc-pc
+[submodule "webusb"]
+	path = webusb
+	url = https://github.com/WICG/webusb
+[submodule "webvtt"]
+	path = webvtt
+	url = https://github.com/w3c/webvtt
+[submodule "webxr"]
+	path = webxr
+	url = https://github.com/immersive-web/webxr
+[submodule "webxr-dom-overlays"]
+	path = webxr-dom-overlays
+	url = https://github.com/immersive-web/dom-overlays
+[submodule "xhr"]
+	path = xhr
+	url = https://github.com/whatwg/xhr
